@@ -1,12 +1,12 @@
 name: PR Changelogs
-concurrency: commit_action-${{ github.event.pull_request.base.ref }} # Mono
+concurrency: commit_action-${{ github.event.pull_request.base.ref }}
 on:
   pull_request_target:
     types: [closed]
 
 env:
   GITHUB_TOKEN: ${{ secrets.BOT_TOKEN }}
-  CHANGELOG_DIR: Resources/Changelog/Monolith.yml # Mono
+  CHANGELOG_DIR: Resources/Changelog/Citadel.yml
   PR_NUMBER: ${{ github.event.number }}
 
 jobs:
@@ -16,11 +16,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout Base Branch # Mono
+      - name: Checkout Base Branch
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.BOT_TOKEN }}
-          ref: "${{ github.event.pull_request.base.ref }}" # Mono
+          ref: "${{ github.event.pull_request.base.ref }}"
 
       - name: Setup Git
         run: |
