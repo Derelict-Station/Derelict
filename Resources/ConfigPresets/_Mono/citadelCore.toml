@@ -10,9 +10,9 @@ motd = "Welcome to Citadel! Your story takes place in the Colossus Sector. Be su
 login_host_user = "GoobStation"
 
 [infolinks]
-discord = "https://discord.gg/mxY4h2JuUw"
+discord = "https://discord.gg/7ryfq6jyt3"
 github = "https://github.com/Citadel-Station/Citadel"
-appeal = "https://discord.gg/mxY4h2JuUw"
+appeal = "https://discord.gg/7ryfq6jyt3"
 
 [admin]
 new_player_join_sound = true
