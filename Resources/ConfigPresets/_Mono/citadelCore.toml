@@ -4,14 +4,14 @@ lobbyduration = 180
 lobbyenabled = true
 
 [chat]
-motd = "Welcome to Monolith! Your story takes place in the Colossus Sector. Be sure to join our Discord!"
+motd = "Welcome to Citadel! Your story takes place in the Colossus Sector. Be sure to join our Discord!"
 
 [console]
 login_host_user = "GoobStation"
 
 [infolinks]
 discord = "https://discord.gg/mxY4h2JuUw"
-github = "https://github.com/Monolith-Station/Monolith"
+github = "https://github.com/Citadel-Station/Citadel"
 appeal = "https://discord.gg/mxY4h2JuUw"
 
 [admin]
