@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="300" viewBox="0 0 980 300">
+  <defs><style>.word{font:126px Agency FB,Arial Narrow,sans-serif;font-weight:700;letter-spacing:8px}.stroke{stroke:#071016;stroke-width:3;stroke-linejoin:round}.boom{stroke:#071016;stroke-width:7;stroke-linecap:round}.accentA{stroke:#2ad9e2;stroke-width:4;stroke-linecap:round}.accentB{stroke:#c7532b;stroke-width:4;stroke-linecap:round}</style></defs>
+  <text x="52" y="169" class="word" fill="#ecf2f0" stroke="#071016" stroke-width="4">DERELICT</text>
+  <path d="M52 225H238M254 225H416M436 225H600" stroke="#2ad9e2" stroke-width="7" stroke-linecap="round"/>
+  <path d="M254 225H416" stroke="#c7532b" stroke-width="7" stroke-linecap="round"/>
+  <g transform="translate(790 150)">
+    <g class="boom"><path d="M35 35 110 110"/><path d="M-35 35-110 110"/><path d="M35-35 110-110"/><path d="M-35-35-110-110"/></g>
+    <g fill="#ecf2f0" class="stroke">
+      <rect x="83" y="83" width="31" height="27" rx="4" transform="rotate(45 98.5 96.5)"/><rect x="111" y="111" width="31" height="27" rx="4" transform="rotate(45 126.5 124.5)"/><rect x="139" y="139" width="31" height="27" rx="4" transform="rotate(45 154.5 152.5)"/>
+      <rect x="-114" y="83" width="31" height="27" rx="4" transform="rotate(-45 -98.5 96.5)"/><rect x="-142" y="111" width="31" height="27" rx="4" transform="rotate(-45 -126.5 124.5)"/><rect x="-170" y="139" width="31" height="27" rx="4" transform="rotate(-45 -154.5 152.5)"/>
+      <rect x="83" y="-110" width="31" height="27" rx="4" transform="rotate(-45 98.5 -96.5)"/><rect x="111" y="-138" width="31" height="27" rx="4" transform="rotate(-45 126.5 -124.5)"/><rect x="139" y="-166" width="31" height="27" rx="4" transform="rotate(-45 154.5 -152.5)"/>
+      <rect x="-114" y="-110" width="31" height="27" rx="4" transform="rotate(45 -98.5 -96.5)"/><rect x="-142" y="-138" width="31" height="27" rx="4" transform="rotate(45 -126.5 -124.5)"/><rect x="-170" y="-166" width="31" height="27" rx="4" transform="rotate(45 -154.5 -152.5)"/>
+    </g>
+    <polygon points="55,16 13,56 -42,40 -55,-16 -13,-56 42,-40" fill="#121b1f" stroke="#ecf2f0" stroke-width="4"/>
+    <path d="M42-40 55 16" class="accentA"/><path d="M-42 40 -55-16" class="accentB"/>
+    <circle r="24" fill="none" stroke="#ecf2f0" stroke-width="5"/><circle r="14" fill="#071016"/>
+  </g>
+</svg>
