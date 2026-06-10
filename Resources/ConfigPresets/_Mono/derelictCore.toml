@@ -4,15 +4,21 @@ lobbyduration = 180
 lobbyenabled = true
 
 [chat]
-motd = "Welcome to Citadel! Your story takes place in the Colossus Sector. Be sure to join our Discord!"
+motd = "Welcome to Derelict! Your story takes place in the Colossus Sector. Be sure to join our Discord!"
 
 [console]
 login_host_user = "GoobStation"
 
 [infolinks]
+<<<<<<< Updated upstream:Resources/ConfigPresets/_Mono/citadelCore.toml
 discord = "https://discord.gg/mxY4h2JuUw"
 github = "https://github.com/Citadel-Station/Citadel"
 appeal = "https://discord.gg/mxY4h2JuUw"
+=======
+discord = "https://discord.gg/7ryfq6jyt3"
+github = "https://github.com/Derelict-Station/Derelict"
+appeal = "https://discord.gg/7ryfq6jyt3"
+>>>>>>> Stashed changes:Resources/ConfigPresets/_Mono/derelictCore.toml
 
 [admin]
 new_player_join_sound = true

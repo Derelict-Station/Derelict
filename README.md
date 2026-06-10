@@ -1,10 +1,10 @@
-<p align="center"> <img alt="Citadel" width="880" height="300" src="Resources/Textures/_Mono/Logo/logo.png?raw=true" /></p>
+<p align="center"> <img alt="Derelict" width="880" height="300" src="Resources/Textures/_Mono/Logo/logo.png?raw=true" /></p>
 
-Citadel is a fork of [Monolith](https://github.com/Monolith-Station/Monolith), which itself is a fork of [Frontier Station 14](https://github.com/new-frontiers-14/frontier-station-14). It runs on the [Robust Toolbox](https://github.com/space-wizards/RobustToolbox) engine written in C#.
+Derelict is a fork of [Monolith](https://github.com/Monolith-Station/Monolith), which itself is a fork of [Frontier Station 14](https://github.com/new-frontiers-14/frontier-station-14). It runs on the [Robust Toolbox](https://github.com/space-wizards/RobustToolbox) engine written in C#.
 
-This is the primary repo for Citadel.
+This is the primary repo for Derelict.
 
-If you want to host or create content for Citadel, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
+If you want to host or create content for Derelict, this is the repo you need. It contains both RobustToolbox and the content pack for development of new content packs.
 
 ## Links
 
