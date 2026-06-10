@@ -13,6 +13,7 @@ changelog-button-new-entries = Changelog (new!)
 
 # Frontier: Changelog<Upstream
 changelog-tab-title-Changelog = Upstream
+changelog-tab-title-Derelict = Derelict
 changelog-tab-title-Admin = Admin
 
 cmd-changelog-desc = Opens the changelog.

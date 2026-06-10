@@ -21487,3 +21487,5 @@ Entries:
   id: 2368
   time: '2026-06-08T12:05:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/4053
+Name: Monolith
+Order: 1 # Derelict
